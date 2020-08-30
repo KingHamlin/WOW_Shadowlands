@@ -38,7 +38,7 @@
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">Pewpewlazr</td>
     <td class="tg-0lax">Druid</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Boomkin</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
